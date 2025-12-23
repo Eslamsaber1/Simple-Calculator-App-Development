@@ -32,7 +32,7 @@ lib/
 └── core/                # Shared utilities & constants
 
 🚀 How to Review & Run
-Clone the Repo: git clone [Your-Repo-Link]
+Clone the Repo: git clone [https://github.com/Eslamsaber1/Simple-Calculator-App-Development.git]
 
 Install Dependencies: flutter pub get
 
